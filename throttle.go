@@ -7,7 +7,7 @@ Effector - функция, частоту вызовов которой нужн
 Throttle - функция, принимающая Effector и возвращающая замыкание с той же сигнатурой, что и Effector.
 */
 
-package templates
+package go_cloud_patterns
 
 import (
 	"context"

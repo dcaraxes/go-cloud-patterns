@@ -8,7 +8,7 @@ Circuit - функция, взаимодействующая со службой
 Breaker - функция-замыкание с той же сигнатурой, что и функция Circuit.
 */
 
-package templates
+package go_cloud_patterns
 
 import (
 	"context"

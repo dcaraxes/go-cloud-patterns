@@ -8,7 +8,7 @@ SlowFunction - функция, возвращающая ответ, необхо
 Timeout - функция-обертка вокруг SlowFunction, которая реализует логику тайм-аута.
 */
 
-package templates
+package go_cloud_patterns
 
 import (
 	"context"
