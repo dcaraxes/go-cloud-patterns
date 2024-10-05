@@ -1,3 +1,3 @@
-module github.com/bruma1994/go-cloud
+module github.com/dcaraxes/go-cloud-patterns
 
 go 1.19
